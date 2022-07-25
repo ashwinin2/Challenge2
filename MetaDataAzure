@@ -7,10 +7,10 @@ From get_metadata ## this will be referenced to that metadata from azure data fa
 import get_metadata
 
 metadata_name= AzureAshuData
- i= variables
- v=Azure(Subscription.id)
-if variables==keydata,
-console.output(subscription.id)
-console.output(i)
+ i= variables;
+ v=Azure(Subscription.id);
+if variables==keydata;
+console.log(subscription.id);
+console.log(i)
 
 ###### i tried my best to answer this challenges but i am not sure of this how exactly we can get this ######## THANK YOU Team.........................
