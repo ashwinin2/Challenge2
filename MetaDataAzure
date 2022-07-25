@@ -1,0 +1,16 @@
+# We need to write code that will query the meta data of an instance within AWS and provide a json formatted output
+
+#### Since i am familiar with Azure , i will try to write query for Azure metadata
+for this i guess we can go to azure data factory and create a function called getMetadata
+
+From get_metadata ## this will be referenced to that metadata from azure data factory 
+import get_metadata
+
+metadata_name= AzureAshuData
+ i= variables
+ v=Azure(Subscription.id)
+if variables==keydata,
+console.output(subscription.id)
+console.output(i)
+
+###### i tried my best to answer this challenges ######## THANK YOU Team.........................
